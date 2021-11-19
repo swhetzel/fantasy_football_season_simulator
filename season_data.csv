@@ -1,0 +1,76 @@
+week,team1,team2,pts1,pts2
+1,Ph Phor Phendetta,Cardinals Fan,132.26,108.52
+1,Dad Bod,EPICdemic,125.34,95.08
+1,Mischief Managed,Chalupa Batman,129.58,102.04
+1,Sore Looza,Coach Roy Kent,137.18,153.74
+1,Florida?,TheStars&Stripes,84.62,116.54
+2,Ph Phor Phendetta,Chalupa Batman,144.8,100.88
+2,Dad Bod,Mischief Managed,101.06,126.48
+2,EPICdemic,Cardinals Fan,109.32,115.8
+2,Sore Looza,Florida?,142.1,102.8
+2,Coach Roy Kent,TheStars&Stripes,68.02,99.9
+3,Ph Phor Phendetta,EPICdemic,108.26,96.28
+3,Dad Bod,TheStars&Stripes,125.38,104.5
+3,Mischief Managed,Sore Looza,124.54,80.88
+3,Chalupa Batman,Coach Roy Kent,121.96,68.02
+3,Cardinals Fan,Florida?,111.98,112.88
+4,Ph Phor Phendetta,Sore Looza,98.4,127
+4,Dad Bod,Coach Roy Kent,114.42,104.06
+4,Mischief Managed,Florida?,135.32,134.86
+4,Chalupa Batman,Cardinals Fan,99.42,118.26
+4,EPICdemic,TheStars&Stripes,148.42,83.88
+5,Ph Phor Phendetta,Dad Bod,127.92,93.82
+5,Mischief Managed,Coach Roy Kent,122.9,107.7
+5,Chalupa Batman,TheStars&Stripes,113.8,125.96
+5,EPICdemic,Cardinals Fan,128.54,194.46
+5,Sore Looza,Florida?,138.18,110.36
+6,Ph Phor Phendetta,EPICdemic,94.56,95.84
+6,Dad Bod,Cardinals Fan,112.5,91.54
+6,Mischief Managed,TheStars&Stripes,138.56,111.56
+6,Chalupa Batman,Sore Looza,131.68,131.8
+6,Coach Roy Kent,Florida?,95.58,111.94
+7,Ph Phor Phendetta,TheStars&Stripes,110.22,107
+7,Dad Bod,Florida?,65.06,95.22
+7,Mischief Managed,Cardinals Fan,127.14,126.72
+7,Chalupa Batman,Coach Roy Kent,96.64,104.88
+7,EPICdemic,Sore Looza,151.96,97.6
+8,Ph Phor Phendetta,Sore Looza,91.32,85.58
+8,Dad Bod,Coach Roy Kent,87.4,109.42
+8,Mischief Managed,Florida?,134.56,70.2
+8,Chalupa Batman,Cardinals Fan,105.7,106.48
+8,EPICdemic,TheStars&Stripes,71.36,93.04
+9,Ph Phor Phendetta,Mischief Managed,79.36,77.84
+9,Dad Bod,Sore Looza,77.78,70
+9,Chalupa Batman,Florida?,106.78,109.62
+9,EPICdemic,Coach Roy Kent,78.4,123.7
+9,Cardinals Fan,TheStars&Stripes,95.22,122.9
+10,Ph Phor Phendetta,Cardinals Fan,65.22,82.42
+10,Dad Bod,Mischief Managed,148.98,76.56
+10,Chalupa Batman,TheStars&Stripes,94.06,94.56
+10,EPICdemic,Florida?,95.12,96.58
+10,Sore Looza,Coach Roy Kent,101.1,98.24
+11,Ph Phor Phendetta,Florida?,,
+11,Dad Bod,Chalupa Batman,,
+11,Mischief Managed,EPICdemic,,
+11,Sore Looza,TheStars&Stripes,,
+11,Cardinals Fan,Coach Roy Kent,,
+12,Ph Phor Phendetta,Sore Looza,,
+12,Dad Bod,Coach Roy Kent,,
+12,Mischief Managed,Florida?,,
+12,Chalupa Batman,Cardinals Fan,,
+12,EPICdemic,TheStars&Stripes,,
+13,Ph Phor Phendetta,Coach Roy Kent,,
+13,Dad Bod,EPICdemic,,
+13,Mischief Managed,Sore Looza,,
+13,Chalupa Batman,Florida?,,
+13,Cardinals Fan,TheStars&Stripes,,
+14,Ph Phor Phendetta,Florida?,,
+14,Dad Bod,Sore Looza,,
+14,Mischief Managed,Cardinals Fan,,
+14,Chalupa Batman,EPICdemic,,
+14,Coach Roy Kent,TheStars&Stripes,,
+15,Ph Phor Phendetta,TheStars&Stripes,,
+15,Dad Bod,Chalupa Batman,,
+15,Mischief Managed,EPICdemic,,
+15,Sore Looza,Cardinals Fan,,
+15,Coach Roy Kent,Florida?,,
