@@ -4,6 +4,8 @@ If your fantasy football league does not automatically give you playoff odds (li
 
 After getting each team's posterior distribution for points we can simulate an entire season by drawing each team's points from those posterior predictive gaussian distributions and then tallying the results of each game. We'll do this, seed the playoffs using each team's final record and point totals and then simulate each playoff game to get a simulated champion. By doing this hundreds or thousands of time, tallying the amount of times each team makes the playoffs and wins the championship, we can get a good idea of what each team's playoff and championship chances are.
 
+The data used in the scripts is found in "season_data.csv" and can be updated weekly as results come in. Be sure to update an entire week as opposed to piecemeal results by matchup. The script assumes that entire weeks are either completed or pending and is not equipped to handle partial results for a week. 
+
 Check out the notebook file "season_simulation.ipynb" to get an idea of how the scripts work as well as the math/theory behind the model. You can also see examples of some of the visuals produced. The functions in the module "season_sim_scripts.py" contain all the code needed to ingest, process, simulate, and plot results. 
 
 You can easily visualize the results of the simulation to get a feel of how well each team is doing and how often they either make the playoffs or win the championship. 
@@ -14,3 +16,5 @@ Here we see a visual for each team's playoff chances according to the simulated 
 Here we see a visual for each team's championship chances according to the simulated model. 
 ![image](https://user-images.githubusercontent.com/79474788/142680853-d3f344ab-1608-4740-a7ce-8c6df3a94362.png)
 
+Outstanding issues: 
+Lack of docstrings in the python script
